@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LaDonaAmor&label=Profile views&color=0e75b6&style=flat" alt="LaDonaAmor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LaDonaAmor" alt="LaDonaAmor" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/LaDona_Amor" target="blank"><img src="https://img.shields.io/twitter/follow/LaDona_Amor?logo=twitter&style=for-the-badge" alt="LaDona_Amor" /></a> </p>
 
 - 🔭 I'm currently working on **Creating pixel-perfect web UI designs using React, improving my digital skills, and building a portfolio.**
@@ -41,4 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LaDonaAmor&show_icons=true&locale=en" alt="LaDonaAmor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaDonaAmor&" alt="LaDonaAmor" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LaDonaAmor" alt="LaDonaAmor" /></a> </p>
+
 
