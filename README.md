@@ -52,6 +52,7 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![wakatime](https://wakatime.com/badge/user/2429383a-f005-4765-904a-c85d361ee98d.svg)](https://wakatime.com/@2429383a-f005-4765-904a-c85d361ee98d)
 
 ---
 
