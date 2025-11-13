@@ -10,9 +10,9 @@
 
 ### 👩🏽‍💻 About Me
 
-I’m a **Frontend Developer** passionate about crafting accessible, and responsive user interfaces. I enjoy building seamless user experiences with **React**, **Tailwind CSS**, and **modern web tools** — turning creative ideas into beautiful, functional products.
+I’m a **Frontend Developer** passionate about crafting accessible and responsive user interfaces. I enjoy building seamless user experiences with **React**, **Tailwind CSS**, and **modern web tools** — turning creative ideas into beautiful, functional products.
 
-With a nursing background, I bring empathy, precision, and a strong sense of detail into every project I work on.  
+With a nursing background, I bring empathy, precision, and a strong attention to detail to every project I work on.  
 When I’m not coding, you’ll find me exploring digital design, tech communities, or simply unwinding with good music 🎧
 
 ---
@@ -60,7 +60,7 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 
 | Project | Description | Stack | Link |
 |----------|--------------|--------|------|
-| **V-Food App** | A vibrant, responsive food ordering app that brings restaurant menus to life. | React, REST API | [View Repo](https://github.com/LaDonaAmor/V-food-App) |
+| **V-Food App** | A vibrant, responsive food ordering app that brings restaurant menus to life. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/V-food-App) |
 | **Online Store** | Fully responsive online shop built from scratch. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/fake-store) |
 | **JustShoes Clone** | E-commerce website with detailed product view and cart functionality. | React, CSS, API Integration | [View Repo](https://github.com/LaDonaAmor/hngstage2task) |
 | **Portfolio** | My personal creative space online. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/hngi8-task-2) |
@@ -82,17 +82,16 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 ---
 
 ### Achievements & Fun Stuff 🏅
+<p>
+<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 200px height='200px' align="right"/>
 - **Nurse in Tech** — merging healthcare empathy with digital innovation  
 - **HNG Internship Participant** (Frontend Track)  
 - Passionate about **UI/UX precision** and **open-source collaboration**  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LaDonaAmor&theme=tokyonight&margin-w=8&margin-h=8" />
 </p>
 
 ---
 
-### Programming Humor 😂
+### Programming Humour 😂
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
@@ -102,7 +101,7 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 
 ### Connect with Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=30px>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/LaDonaAmor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LaDonaAmor" height="30" width="40" /></a>
   <a href="https://dev.to/ladonaamor-technurse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ladonaamor-technurse" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rachealogunmodede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachealogunmodede" height="30" width="40" /></a>
@@ -115,7 +114,6 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 
 <p align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="200"/>
-  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 200px height='200px'/>
 </p>
 
 ---
