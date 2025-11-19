@@ -84,10 +84,10 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 ### Achievements & Fun Stuff 🏅
 <p>
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 200px height='200px' align="right"/> 
-  
-  **Nurse in Tech** — merging healthcare empathy with digital innovation
-  **HNG Internship Participant** (Frontend Track)
-  Passionate about **UI/UX precision** and **open-source collaboration**  
+
+- **Nurse in Tech** — merging healthcare empathy with digital innovation
+- **HNG Internship Participant** (Frontend Track)
+- Passionate about **UI/UX precision** and **open-source collaboration**
 </p>
 
 ---
