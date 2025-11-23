@@ -60,8 +60,9 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 
 | Project | Description | Stack | Link |
 |----------|--------------|--------|------|
-| **V-Food App** | A vibrant, responsive landing page for a food ordering app that brings restaurant menus to life. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/V-food-App) |
 | **Online Store** | A fake store website that includes a login page, homepage, cart page, and product page. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/fake-store) |
+| **Mini-Projects Collection** | A growing collection of small, fun, beginner-friendly projects showcasing creativity and core frontend skills. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/Mini-Projects) |
+| **V-Food App** | A vibrant, responsive landing page for a food ordering app that brings restaurant menus to life. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/V-food-App) |
 | **JustShoes Clone** | E-commerce website with detailed product view and cart functionality. | React, CSS, API Integration | [View Repo](https://github.com/LaDonaAmor/hngstage2task) |
 | **Portfolio** | My personal creative space online. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/hngi8-task-2) |
 
