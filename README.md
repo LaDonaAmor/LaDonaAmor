@@ -58,14 +58,12 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 
 ### 🧩 Featured Projects
 
-| Project | Description | Stack | Link |
-|----------|--------------|--------|------|
-| **Online Store** | A fake store website that includes a login page, homepage, cart page, and product page. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/fake-store) |
-| **Mini-Projects Collection** | A growing collection of small, fun, beginner-friendly projects showcasing creativity and core frontend skills. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/Mini-Projects) |
-| **V-Food App** | A vibrant, responsive landing page for a food ordering app that brings restaurant menus to life. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/V-food-App) |
-| **JustShoes Clone** | E-commerce website with detailed product view and cart functionality. | React, CSS, API Integration | [View Repo](https://github.com/LaDonaAmor/hngstage2task) |
-| **Portfolio** | My personal creative space online. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/hngi8-task-2) |
-
+| Project | Description | Stack | Link | Repo |
+|----------|--------------|--------|------|------|
+| **Online Store** | A multi-page e-commerce store with login, homepage, cart, and product pages. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/fake-store) | [Live Link](https://fake-stores.vercel.app) |
+| **Mini-Projects Collection** | A growing collection of small, fun, beginner-friendly projects showcasing creativity and core frontend skills. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/Mini-Projects) | [Live Link](https://miniproject-hub.netlify.app) |
+| **V-Food App** | A vibrant, responsive landing page for a food ordering app that brings restaurant menus to life. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/V-food-App) | [Live Link](http://v-food-app.vercel.app) |
+| **JustShoes Clone** | E-commerce website with detailed product view and cart functionality. | React, CSS, API Integration | [View Repo](https://github.com/LaDonaAmor/hngstage2task) | [Live Link](https://timbu-just-shoes-shop.vercel.app) |
 
 ---
 
