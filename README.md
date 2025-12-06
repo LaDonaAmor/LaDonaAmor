@@ -10,7 +10,7 @@
 
 ### 👩🏽‍💻 About Me
 
-I’m a **Frontend Developer** passionate about crafting accessible and responsive user interfaces. I enjoy building seamless user experiences with **HTMLt**, **CSS**, **JavaScript**, and **modern web tools** — turning creative ideas into beautiful, functional products.
+I’m a **Frontend Developer** passionate about crafting accessible and responsive user interfaces. I enjoy building seamless user experiences with **HTML**, **CSS**, **JavaScript**, and **modern web tools** — turning creative ideas into beautiful, functional products.
 
 With a nursing background, I bring empathy, precision, and a strong attention to detail to every project I work on.  
 When I’m not coding, you’ll find me exploring digital design, tech communities, or simply unwinding with good music 🎧
