@@ -58,7 +58,7 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 
 ### 🧩 Featured Projects
 
-| Project | Description | Stack | Link | Repo |
+| Project | Description | Stack | Repo | Link |
 |----------|--------------|--------|------|------|
 | **Online Store** | A multi-page e-commerce store with login, homepage, cart, and product pages. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/fake-store) | [Live Link](https://fake-stores.vercel.app) |
 | **Mini-Projects Collection** | A growing collection of small, fun, beginner-friendly projects showcasing creativity and core frontend skills. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/Mini-Projects) | [Live Link](https://miniproject-hub.netlify.app) |
