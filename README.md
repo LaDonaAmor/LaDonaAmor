@@ -10,20 +10,28 @@
 
 ### 👩🏽‍💻 About Me
 
-I’m a **Frontend Developer** passionate about crafting accessible and responsive user interfaces. I enjoy building seamless user experiences with **HTML**, **CSS**, **JavaScript**, and **modern web tools** — turning creative ideas into beautiful, functional products.
+# Hi, I'm Racheal Ogunmodede 👋
+ 
+**Frontend Developer** — React · TypeScript · Tailwind CSS
+- 🌐 Portfolio: [racheal-io.vercel.app](https://racheal-io.vercel.app/)
+
+I’m passionate about crafting accessible and responsive user interfaces. I enjoy building seamless user experiences with **HTML**, **CSS**, **JavaScript**, and **modern web tools** — turning creative ideas into beautiful, functional products.
 
 With a nursing background, I bring empathy, precision, and a strong attention to detail to every project I work on.  
 When I’m not coding, you’ll find me exploring digital design, tech communities, or simply unwinding with good music 🎧
 
+## 💡 What I focus on
+
+ <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
+
+- Translating Figma designs into pixel-accurate, responsive UI (mobile / tablet / desktop)
+- Reusable, well-organized component libraries
+- Accessible interactive patterns — modals, dropdowns, forms — done properly (focus traps, ARIA, keyboard nav)
+- Clean handover: readable code, sensible folder structure, documented setup
 ---
-
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
-
-- I’m currently working on **Pixel-perfect React UI designs**
-- Learning **Tailwind CSS & React**
 - Open to **Frontend collaborations**
 - Talk to me about **React, JavaScript, or Open Source**
-- Reach me at **razylove02@gmail.com**
+- Reach me at **rachealogunmodede6@gmail.com**
 - Fun fact: _I’m a Nurse who codes!_ 🩺💻
 
 ---
@@ -60,10 +68,11 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 
 | Project | Description | Stack | Repo | Link |
 |----------|--------------|--------|------|------|
-| **Online Store** | A multi-page e-commerce store with login, homepage, cart, and product pages. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/fake-store) | [Live Link](https://fake-stores.vercel.app) |
+| **Invoice Management App** | Full CRUD invoice dashboard — drawer-style forms with two-tier validation, multi-select status filters, focus-trapped modals, light/dark mode, fully responsive (mobile → desktop) | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, React Router | [View Repo](https://github.com/LaDonaAmor/invoice-mgt-app) | [Live Link](https://invoice-mgt-app.vercel.app/) |
+| **Habit Tracker (PWA)** | Progressive web app for tracking habits with persistent state and a responsive, component-driven UI | TypeScript, React | [View Repo](https://github.com/LaDonaAmor/invoice-mgt-app) | [Live Link](https://habit-tracker-pwa-app.vercel.app/dashboard) |
+| **Online Store** | A multi-page e-commerce store with login, homepage, cart, and product pages. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/habit-tracker) | [Live Link](https://fake-stores.vercel.app) |
 | **Mini-Projects Collection** | A growing collection of small, fun, beginner-friendly projects showcasing creativity and core frontend skills. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/Mini-Projects) | [Live Link](https://miniproject-hub.netlify.app) |
 | **V-Food App** | A vibrant, responsive landing page for a food ordering app that brings restaurant menus to life. | HTML, CSS, JavaScript | [View Repo](https://github.com/LaDonaAmor/V-food-App) | [Live Link](http://v-food-app.vercel.app) |
-| **JustShoes Clone** | E-commerce website with detailed product view and cart functionality. | React, CSS, API Integration | [View Repo](https://github.com/LaDonaAmor/hngstage2task) | [Live Link](https://timbu-just-shoes-shop.vercel.app) |
 
 ---
 
@@ -85,7 +94,7 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 200px height='200px' align="right"/> 
 
 - **Nurse in Tech** — merging healthcare empathy with digital innovation
-- **HNG Internship Participant** (Frontend Track)
+- **HNG Internship Finalist** (Frontend Track, HNGi14)
 - Passionate about **UI/UX precision** and **open-source collaboration**
 </p>
 
@@ -101,7 +110,7 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 
 ### Connect with Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=30px>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/LaDonaAmor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LaDonaAmor" height="30" width="40" /></a>
   <a href="https://dev.to/ladonaamor-technurse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ladonaamor-technurse" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rachealogunmodede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachealogunmodede" height="30" width="40" /></a>
@@ -112,7 +121,7 @@ When I’m not coding, you’ll find me exploring digital design, tech communiti
 </p>
 
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="200"/>
 </p>
 
